@@ -15,7 +15,7 @@ const menuList = [
   // { "title": "Domestic Mobs", "blocks": true, "items": true, "crafting": true },
   // { "title": "Drill Buddy", "blocks": true, "items": true, "crafting": true },
   // { "title": "Elemental Weapons", "blocks": true, "items": true, "crafting": true },
-  // { "title": "Ender Sceptre", "blocks": true, "items": true, "crafting": true },
+  { "title": "Ender Scepter", "blocks": false, "items": true, "crafting": true },
   // { "title": "Food!", "blocks": true, "items": true, "crafting": true },
   // { "title": "Generate and Duplicate", "blocks": true, "items": true, "crafting": true },
   { "title": "Helpful Blocks", "blocks": true, "items": false, "crafting": true },

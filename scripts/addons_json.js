@@ -298,19 +298,19 @@ const addonsList = [
 		// "entities": false,
 		// "structures": false
   // },
-  // {
-    // "dat_link": "link",
-		// "res_link": "link",
-		// "gallery": 0,
-    // "title": "Ender Sceptre",
-		// "desc": "Adds a simple item where you teleport where your cursor points. You need to sacrifice your dragon egg trophy for it though.",
-    // "full_desc": "Testing the full description lol",
-		// "crafting": false,
-		// "blocks": false,
-		// "items": false,
-		// "entities": false,
-		// "structures": false
-  // },
+  {
+    "dat_link": "https://link-target.net/131911/ender-scepter-dat",
+		"res_link": "https://direct-link.net/131911/ender-scepter-res",
+		"gallery": 2,
+    "title": "Ender Scepter",
+		"desc": "Adds a simple item where you teleport where your cursor points. It tremendously helps with traveling ling distances though it does damage you as if you threw an actual ender pearl.",
+    "full_desc": "Travelling can be a hassle sometimes in survival but this add-on adds a new item that can make travelling long distances instantaneous! The Ender Scepter is a new item that can allow the user to teleport to where they point. It adds 3 new effects on impact namely shocking, raging, and flaming.",
+		"crafting": true,
+		"blocks": false,
+		"items": true,
+		"entities": false,
+		"structures": false
+  },
   // {
     // "dat_link": "link",
 		// "res_link": "link",

@@ -14836,3 +14836,210 @@ const boomerangs_items = [
 		"description": "It will return to the nearest player after entering maximum distance. It will pierce through entities and inflict wither 3 for 10 seconds."
 	}
 ]
+
+const ender_scepter_items = [
+	{
+		"name": "Wooden Ender Scepter", "model": false, "sub": "", "max_stack": 1, "off_hand": false, "explodeable": true, "flammable": true, "cooldown": 1, "armor": [], "nutrition": "",
+		"damage": [
+			"➶ 0 - Ranged"
+		],
+		"durability": "5", "group": "Equipment",
+		"description": "Using it will teleport the user where they point."
+	},
+	{
+		"name": "Stone Ender Scepter", "model": false, "sub": "", "max_stack": 1, "off_hand": false, "explodeable": true, "flammable": true, "cooldown": 1, "armor": [], "nutrition": "",
+		"damage": [
+			"➶ 0 - Ranged"
+		],
+		"durability": "10", "group": "Equipment",
+		"description": "Using it will teleport the user where they point."
+	},
+	{
+		"name": "Gold Ender Scepter", "model": false, "sub": "", "max_stack": 1, "off_hand": false, "explodeable": true, "flammable": true, "cooldown": 1, "armor": [], "nutrition": "",
+		"damage": [
+			"➶ 0 - Ranged"
+		],
+		"durability": "15", "group": "Equipment",
+		"description": "Using it will teleport the user where they point."
+	},
+	{
+		"name": "Iron Ender Scepter", "model": false, "sub": "", "max_stack": 1, "off_hand": false, "explodeable": true, "flammable": true, "cooldown": 1, "armor": [], "nutrition": "",
+		"damage": [
+			"➶ 0 - Ranged"
+		],
+		"durability": "20", "group": "Equipment",
+		"description": "Using it will teleport the user where they point."
+	},
+	{
+		"name": "Diamond Ender Scepter", "model": false, "sub": "", "max_stack": 1, "off_hand": false, "explodeable": true, "flammable": true, "cooldown": 1, "armor": [], "nutrition": "",
+		"damage": [
+			"➶ 0 - Ranged"
+		],
+		"durability": "40", "group": "Equipment",
+		"description": "Using it will teleport the user where they point."
+	},
+	{
+		"name": "Netherite Ender Scepter", "model": false, "sub": "", "max_stack": 1, "off_hand": false, "explodeable": true, "flammable": true, "cooldown": 1, "armor": [], "nutrition": "",
+		"damage": [
+			"➶ 0 - Ranged"
+		],
+		"durability": "80", "group": "Equipment",
+		"description": "Using it will teleport the user where they point."
+	},
+	{
+		"name": "Shocking Wooden Ender Scepter", "model": false, "sub": "", "max_stack": 1, "off_hand": false, "explodeable": true, "flammable": true, "cooldown": 1, "armor": [], "nutrition": "",
+		"damage": [
+			"➶ 0 - Ranged",
+			"🗲 16 - Charged"
+		],
+		"durability": "5", "group": "Equipment",
+		"description": "Using it will teleport the user where they point. Landing will create a wide low AOE damage."
+	},
+	{
+		"name": "Shocking Stone Ender Scepter", "model": false, "sub": "", "max_stack": 1, "off_hand": false, "explodeable": true, "flammable": true, "cooldown": 1, "armor": [], "nutrition": "",
+		"damage": [
+			"➶ 0 - Ranged",
+			"🗲 16 - Charged"
+		],
+		"durability": "10", "group": "Equipment",
+		"description": "Using it will teleport the user where they point. Landing will create a wide low AOE damage."
+	},
+	{
+		"name": "Shocking Gold Ender Scepter", "model": false, "sub": "", "max_stack": 1, "off_hand": false, "explodeable": true, "flammable": true, "cooldown": 1, "armor": [], "nutrition": "",
+		"damage": [
+			"➶ 0 - Ranged",
+			"🗲 16 - Charged"
+		],
+		"durability": "15", "group": "Equipment",
+		"description": "Using it will teleport the user where they point. Landing will create a wide low AOE damage."
+	},
+	{
+		"name": "Shocking Iron Ender Scepter", "model": false, "sub": "", "max_stack": 1, "off_hand": false, "explodeable": true, "flammable": true, "cooldown": 1, "armor": [], "nutrition": "",
+		"damage": [
+			"➶ 0 - Ranged",
+			"🗲 16 - Charged"
+		],
+		"durability": "20", "group": "Equipment",
+		"description": "Using it will teleport the user where they point. Landing will create a wide low AOE damage."
+	},
+	{
+		"name": "Shocking Diamond Ender Scepter", "model": false, "sub": "", "max_stack": 1, "off_hand": false, "explodeable": true, "flammable": true, "cooldown": 1, "armor": [], "nutrition": "",
+		"damage": [
+			"➶ 0 - Ranged",
+			"🗲 16 - Charged"
+		],
+		"durability": "40", "group": "Equipment",
+		"description": "Using it will teleport the user where they point. Landing will create a wide low AOE damage."
+	},
+	{
+		"name": "Shocking Netherite Ender Scepter", "model": false, "sub": "", "max_stack": 1, "off_hand": false, "explodeable": true, "flammable": true, "cooldown": 1, "armor": [], "nutrition": "",
+		"damage": [
+			"➶ 0 - Ranged",
+			"🗲 16 - Charged"
+		],
+		"durability": "80", "group": "Equipment",
+		"description": "Using it will teleport the user where they point. Landing will create a wide low AOE damage."
+	},
+	{
+		"name": "Raging Wooden Ender Scepter", "model": false, "sub": "", "max_stack": 1, "off_hand": false, "explodeable": true, "flammable": true, "cooldown": 1, "armor": [], "nutrition": "",
+		"damage": [
+			"➶ 0 - Ranged",
+			"🗲 30 - Charged"
+		],
+		"durability": "5", "group": "Equipment",
+		"description": "Using it will teleport the user where they point. Landing will create a small high AOE damage."
+	},
+	{
+		"name": "Raging Stone Ender Scepter", "model": false, "sub": "", "max_stack": 1, "off_hand": false, "explodeable": true, "flammable": true, "cooldown": 1, "armor": [], "nutrition": "",
+		"damage": [
+			"➶ 0 - Ranged",
+			"🗲 30 - Charged"
+		],
+		"durability": "10", "group": "Equipment",
+		"description": "Using it will teleport the user where they point. Landing will create a small high AOE damage."
+	},
+	{
+		"name": "Raging Gold Ender Scepter", "model": false, "sub": "", "max_stack": 1, "off_hand": false, "explodeable": true, "flammable": true, "cooldown": 1, "armor": [], "nutrition": "",
+		"damage": [
+			"➶ 0 - Ranged",
+			"🗲 30 - Charged"
+		],
+		"durability": "15", "group": "Equipment",
+		"description": "Using it will teleport the user where they point. Landing will create a small high AOE damage."
+	},
+	{
+		"name": "Raging Iron Ender Scepter", "model": false, "sub": "", "max_stack": 1, "off_hand": false, "explodeable": true, "flammable": true, "cooldown": 1, "armor": [], "nutrition": "",
+		"damage": [
+			"➶ 0 - Ranged",
+			"🗲 30 - Charged"
+		],
+		"durability": "20", "group": "Equipment",
+		"description": "Using it will teleport the user where they point. Landing will create a small high AOE damage."
+	},
+	{
+		"name": "Raging Diamond Ender Scepter", "model": false, "sub": "", "max_stack": 1, "off_hand": false, "explodeable": true, "flammable": true, "cooldown": 1, "armor": [], "nutrition": "",
+		"damage": [
+			"➶ 0 - Ranged",
+			"🗲 30 - Charged"
+		],
+		"durability": "40", "group": "Equipment",
+		"description": "Using it will teleport the user where they point. Landing will create a small high AOE damage."
+	},
+	{
+		"name": "Raging Netherite Ender Scepter", "model": false, "sub": "", "max_stack": 1, "off_hand": false, "explodeable": true, "flammable": true, "cooldown": 1, "armor": [], "nutrition": "",
+		"damage": [
+			"➶ 0 - Ranged",
+			"🗲 30 - Charged"
+		],
+		"durability": "80", "group": "Equipment",
+		"description": "Using it will teleport the user where they point. Landing will create a small high AOE damage."
+	},
+	{
+		"name": "Flaming Wooden Ender Scepter", "model": false, "sub": "", "max_stack": 1, "off_hand": false, "explodeable": true, "flammable": true, "cooldown": 1, "armor": [], "nutrition": "",
+		"damage": [
+			"➶ 0 - Ranged"
+		],
+		"durability": "5", "group": "Equipment",
+		"description": "Using it will teleport the user where they point. Landing will create a 5x5 area of fire and provide the user 1 second of fire resistance."
+	},
+	{
+		"name": "Flaming Stone Ender Scepter", "model": false, "sub": "", "max_stack": 1, "off_hand": false, "explodeable": true, "flammable": true, "cooldown": 1, "armor": [], "nutrition": "",
+		"damage": [
+			"➶ 0 - Ranged"
+		],
+		"durability": "10", "group": "Equipment",
+		"description": "Using it will teleport the user where they point. Landing will create a 5x5 area of fire and provide the user 1 second of fire resistance."
+	},
+	{
+		"name": "Flaming Gold Ender Scepter", "model": false, "sub": "", "max_stack": 1, "off_hand": false, "explodeable": true, "flammable": true, "cooldown": 1, "armor": [], "nutrition": "",
+		"damage": [
+			"➶ 0 - Ranged"
+		],
+		"durability": "15", "group": "Equipment",
+		"description": "Using it will teleport the user where they point. Landing will create a 5x5 area of fire and provide the user 1 second of fire resistance."
+	},
+	{
+		"name": "Flaming Iron Ender Scepter", "model": false, "sub": "", "max_stack": 1, "off_hand": false, "explodeable": true, "flammable": true, "cooldown": 1, "armor": [], "nutrition": "",
+		"damage": [
+			"➶ 0 - Ranged"
+		],
+		"durability": "20", "group": "Equipment",
+		"description": "Using it will teleport the user where they point. Landing will create a 5x5 area of fire and provide the user 1 second of fire resistance."
+	},
+	{
+		"name": "Flaming Diamond Ender Scepter", "model": false, "sub": "", "max_stack": 1, "off_hand": false, "explodeable": true, "flammable": true, "cooldown": 1, "armor": [], "nutrition": "",
+		"damage": [
+			"➶ 0 - Ranged"
+		],
+		"durability": "40", "group": "Equipment",
+		"description": "Using it will teleport the user where they point. Landing will create a 5x5 area of fire and provide the user 1 second of fire resistance."
+	},
+	{
+		"name": "Flaming Netherite Ender Scepter", "model": false, "sub": "", "max_stack": 1, "off_hand": false, "explodeable": true, "flammable": true, "cooldown": 1, "armor": [], "nutrition": "",
+		"damage": [
+			"➶ 0 - Ranged"
+		],
+		"durability": "80", "group": "Equipment",
+		"description": "Using it will teleport the user where they point. Landing will create a 5x5 area of fire and provide the user 1 second of fire resistance."
+	}
+]

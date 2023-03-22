@@ -2020,11 +2020,7 @@ const totalcarnagelist = [
     ],
     "immunities": [],
     "target": [
-			"⊕ Player",
-			"⊕ Undead",
-			"⊕ Villager",
-			"⊕ Iron Golem",
-			"⊕ Snow Golem"
+			"⊕ Non-undead"
 		],
     "spawn": [
 			"⌂ Plains, spawns in groups of 2 to 4.",
@@ -3454,7 +3450,7 @@ const totalcarnagelist = [
 		"variants": 1,
     "desc": "Melee by default and modular after some time. Strategic measure are required; modular attack will rot and infect nearby blocks. Block infection will destroy nearby structures. Can break doors.",
     "weaknesses": [
-      "Fire"
+      "Lava"
     ],
     "immunities": [],
     "target": [

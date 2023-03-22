@@ -12321,3 +12321,294 @@ const boomerangs = [
 		"amount": 1
 	},
 ]
+
+const ender_scepter = [
+	{
+		"type": "crafting",
+		"tool": "minecraft/crafting_table",
+		"genre": "items",
+		"pattern": [
+			"", "minecraft/ender_eye", "",
+			"", "minecraft/oak_planks", "",
+			"", "minecraft/oak_planks", ""
+		],
+		"result": "ender_scepter/wooden_ender_scepter",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"tool": "minecraft/crafting_table",
+		"genre": "items",
+		"pattern": [
+			"", "minecraft/ender_eye", "",
+			"", "minecraft/cobblestone", "",
+			"", "minecraft/cobblestone", ""
+		],
+		"result": "ender_scepter/stone_ender_scepter",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"tool": "minecraft/crafting_table",
+		"genre": "items",
+		"pattern": [
+			"", "minecraft/ender_eye", "",
+			"", "minecraft/iron_ingot", "",
+			"", "minecraft/iron_ingot", ""
+		],
+		"result": "ender_scepter/iron_ender_scepter",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"tool": "minecraft/crafting_table",
+		"genre": "items",
+		"pattern": [
+			"", "minecraft/ender_eye", "",
+			"", "minecraft/gold_ingot", "",
+			"", "minecraft/gold_ingot", ""
+		],
+		"result": "ender_scepter/gold_ender_scepter",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"tool": "minecraft/crafting_table",
+		"genre": "items",
+		"pattern": [
+			"", "minecraft/ender_eye", "",
+			"", "minecraft/diamond", "",
+			"", "minecraft/diamond", ""
+		],
+		"result": "ender_scepter/diamond_ender_scepter",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"tool": "minecraft/crafting_table",
+		"genre": "items",
+		"pattern": [
+			"", "minecraft/ender_eye", "",
+			"", "minecraft/netherite_ingot", "",
+			"", "minecraft/netherite_ingot", ""
+		],
+		"result": "ender_scepter/netherite_ender_scepter",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"tool": "minecraft/crafting_table",
+		"genre": "items",
+		"pattern": [
+			"minecraft/redstone_dust", "minecraft/redstone_dust", "minecraft/redstone_dust",
+			"minecraft/redstone_dust", "ender_scepter/wooden_ender_scepter", "minecraft/redstone_dust",
+			"minecraft/redstone_dust", "minecraft/redstone_dust", "minecraft/redstone_dust"
+		],
+		"result": "ender_scepter/shocking_wooden_ender_scepter",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"tool": "minecraft/crafting_table",
+		"genre": "items",
+		"pattern": [
+			"minecraft/redstone_dust", "minecraft/redstone_dust", "minecraft/redstone_dust",
+			"minecraft/redstone_dust", "ender_scepter/stone_ender_scepter", "minecraft/redstone_dust",
+			"minecraft/redstone_dust", "minecraft/redstone_dust", "minecraft/redstone_dust"
+		],
+		"result": "ender_scepter/shocking_stone_ender_scepter",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"tool": "minecraft/crafting_table",
+		"genre": "items",
+		"pattern": [
+			"minecraft/redstone_dust", "minecraft/redstone_dust", "minecraft/redstone_dust",
+			"minecraft/redstone_dust", "ender_scepter/iron_ender_scepter", "minecraft/redstone_dust",
+			"minecraft/redstone_dust", "minecraft/redstone_dust", "minecraft/redstone_dust"
+		],
+		"result": "ender_scepter/shocking_iron_ender_scepter",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"tool": "minecraft/crafting_table",
+		"genre": "items",
+		"pattern": [
+			"minecraft/redstone_dust", "minecraft/redstone_dust", "minecraft/redstone_dust",
+			"minecraft/redstone_dust", "ender_scepter/gold_ender_scepter", "minecraft/redstone_dust",
+			"minecraft/redstone_dust", "minecraft/redstone_dust", "minecraft/redstone_dust"
+		],
+		"result": "ender_scepter/shocking_gold_ender_scepter",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"tool": "minecraft/crafting_table",
+		"genre": "items",
+		"pattern": [
+			"minecraft/redstone_dust", "minecraft/redstone_dust", "minecraft/redstone_dust",
+			"minecraft/redstone_dust", "ender_scepter/diamond_ender_scepter", "minecraft/redstone_dust",
+			"minecraft/redstone_dust", "minecraft/redstone_dust", "minecraft/redstone_dust"
+		],
+		"result": "ender_scepter/shocking_diamond_ender_scepter",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"tool": "minecraft/crafting_table",
+		"genre": "items",
+		"pattern": [
+			"minecraft/redstone_dust", "minecraft/redstone_dust", "minecraft/redstone_dust",
+			"minecraft/redstone_dust", "ender_scepter/netherite_ender_scepter", "minecraft/redstone_dust",
+			"minecraft/redstone_dust", "minecraft/redstone_dust", "minecraft/redstone_dust"
+		],
+		"result": "ender_scepter/shocking_netherite_ender_scepter",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"tool": "minecraft/crafting_table",
+		"genre": "items",
+		"pattern": [
+			"minecraft/gunpowder", "minecraft/gunpowder", "minecraft/gunpowder",
+			"minecraft/gunpowder", "ender_scepter/wooden_ender_scepter", "minecraft/gunpowder",
+			"minecraft/gunpowder", "minecraft/gunpowder", "minecraft/gunpowder"
+		],
+		"result": "ender_scepter/raging_wooden_ender_scepter",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"tool": "minecraft/crafting_table",
+		"genre": "items",
+		"pattern": [
+			"minecraft/gunpowder", "minecraft/gunpowder", "minecraft/gunpowder",
+			"minecraft/gunpowder", "ender_scepter/stone_ender_scepter", "minecraft/gunpowder",
+			"minecraft/gunpowder", "minecraft/gunpowder", "minecraft/gunpowder"
+		],
+		"result": "ender_scepter/raging_stone_ender_scepter",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"tool": "minecraft/crafting_table",
+		"genre": "items",
+		"pattern": [
+			"minecraft/gunpowder", "minecraft/gunpowder", "minecraft/gunpowder",
+			"minecraft/gunpowder", "ender_scepter/iron_ender_scepter", "minecraft/gunpowder",
+			"minecraft/gunpowder", "minecraft/gunpowder", "minecraft/gunpowder"
+		],
+		"result": "ender_scepter/raging_iron_ender_scepter",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"tool": "minecraft/crafting_table",
+		"genre": "items",
+		"pattern": [
+			"minecraft/gunpowder", "minecraft/gunpowder", "minecraft/gunpowder",
+			"minecraft/gunpowder", "ender_scepter/gold_ender_scepter", "minecraft/gunpowder",
+			"minecraft/gunpowder", "minecraft/gunpowder", "minecraft/gunpowder"
+		],
+		"result": "ender_scepter/raging_gold_ender_scepter",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"tool": "minecraft/crafting_table",
+		"genre": "items",
+		"pattern": [
+			"minecraft/gunpowder", "minecraft/gunpowder", "minecraft/gunpowder",
+			"minecraft/gunpowder", "ender_scepter/diamond_ender_scepter", "minecraft/gunpowder",
+			"minecraft/gunpowder", "minecraft/gunpowder", "minecraft/gunpowder"
+		],
+		"result": "ender_scepter/raging_diamond_ender_scepter",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"tool": "minecraft/crafting_table",
+		"genre": "items",
+		"pattern": [
+			"minecraft/gunpowder", "minecraft/gunpowder", "minecraft/gunpowder",
+			"minecraft/gunpowder", "ender_scepter/netherite_ender_scepter", "minecraft/gunpowder",
+			"minecraft/gunpowder", "minecraft/gunpowder", "minecraft/gunpowder"
+		],
+		"result": "ender_scepter/raging_netherite_ender_scepter",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"tool": "minecraft/crafting_table",
+		"genre": "items",
+		"pattern": [
+			"minecraft/blaze_powder", "minecraft/blaze_powder", "minecraft/blaze_powder",
+			"minecraft/blaze_powder", "ender_scepter/wooden_ender_scepter", "minecraft/blaze_powder",
+			"minecraft/blaze_powder", "minecraft/blaze_powder", "minecraft/blaze_powder"
+		],
+		"result": "ender_scepter/flaming_wooden_ender_scepter",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"tool": "minecraft/crafting_table",
+		"genre": "items",
+		"pattern": [
+			"minecraft/blaze_powder", "minecraft/blaze_powder", "minecraft/blaze_powder",
+			"minecraft/blaze_powder", "ender_scepter/stone_ender_scepter", "minecraft/blaze_powder",
+			"minecraft/blaze_powder", "minecraft/blaze_powder", "minecraft/blaze_powder"
+		],
+		"result": "ender_scepter/flaming_stone_ender_scepter",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"tool": "minecraft/crafting_table",
+		"genre": "items",
+		"pattern": [
+			"minecraft/blaze_powder", "minecraft/blaze_powder", "minecraft/blaze_powder",
+			"minecraft/blaze_powder", "ender_scepter/iron_ender_scepter", "minecraft/blaze_powder",
+			"minecraft/blaze_powder", "minecraft/blaze_powder", "minecraft/blaze_powder"
+		],
+		"result": "ender_scepter/flaming_iron_ender_scepter",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"tool": "minecraft/crafting_table",
+		"genre": "items",
+		"pattern": [
+			"minecraft/blaze_powder", "minecraft/blaze_powder", "minecraft/blaze_powder",
+			"minecraft/blaze_powder", "ender_scepter/gold_ender_scepter", "minecraft/blaze_powder",
+			"minecraft/blaze_powder", "minecraft/blaze_powder", "minecraft/blaze_powder"
+		],
+		"result": "ender_scepter/flaming_gold_ender_scepter",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"tool": "minecraft/crafting_table",
+		"genre": "items",
+		"pattern": [
+			"minecraft/blaze_powder", "minecraft/blaze_powder", "minecraft/blaze_powder",
+			"minecraft/blaze_powder", "ender_scepter/diamond_ender_scepter", "minecraft/blaze_powder",
+			"minecraft/blaze_powder", "minecraft/blaze_powder", "minecraft/blaze_powder"
+		],
+		"result": "ender_scepter/flaming_diamond_ender_scepter",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"tool": "minecraft/crafting_table",
+		"genre": "items",
+		"pattern": [
+			"minecraft/blaze_powder", "minecraft/blaze_powder", "minecraft/blaze_powder",
+			"minecraft/blaze_powder", "ender_scepter/netherite_ender_scepter", "minecraft/blaze_powder",
+			"minecraft/blaze_powder", "minecraft/blaze_powder", "minecraft/blaze_powder"
+		],
+		"result": "ender_scepter/flaming_netherite_ender_scepter",
+		"amount": 1
+	}
+]
