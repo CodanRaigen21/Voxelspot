@@ -7615,3 +7615,30 @@ const helpful_blocks_blocks = [
   { "name": "White Dripstone Gate Block", "mining_time": 7.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Items", "model": false, "special_loot": [], "description": "It will open when interacted by a player. It will cause other adjacent gate blocks of the same type and color to open as well. The gates will remain open for 1.5 seconds." },
   { "name": "Yellow Dripstone Gate Block", "mining_time": 7.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Items", "model": false, "special_loot": [], "description": "It will open when interacted by a player. It will cause other adjacent gate blocks of the same type and color to open as well. The gates will remain open for 1.5 seconds." }
 ]
+
+const gold_rush_blocks = [
+  {
+    "name": "Sieve",
+		"model": false,
+		"special_loot": [],
+    "mining_time": 5,
+    "explosion_resistance": 6,
+    "flammable": false,
+		"light": 0,
+    "orientation": "none",
+    "group": "Items",
+    "description": "A block used to process Paydirt. Interact with it using paydirt to extract its contents."
+  },
+  {
+    "name": "Paydirt",
+		"model": false,
+		"special_loot": [],
+    "mining_time": 1.25,
+    "explosion_resistance": 3,
+    "flammable": false,
+		"light": 0,
+    "orientation": "none",
+    "group": "Nature",
+    "description": "An ore block found in between 64 to 128 levels in the mega taiga biome. It's contents can be extracted using a Sieve. During extraction, it will spawn 16 to 20 gold nuggets or 8 to 16 raw gold per second for 16 seconds."
+  }
+]

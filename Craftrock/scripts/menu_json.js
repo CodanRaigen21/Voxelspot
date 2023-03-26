@@ -17,6 +17,7 @@ const menuList = [
   // { "title": "Elemental Weapons", "blocks": true, "items": true, "crafting": true },
   { "title": "Ender Scepter", "blocks": false, "items": true, "crafting": true },
   // { "title": "Food!", "blocks": true, "items": true, "crafting": true },
+  { "title": "Gold Rush", "blocks": true, "items": false, "crafting": true },
   // { "title": "Generate and Duplicate", "blocks": true, "items": true, "crafting": true },
   { "title": "Helpful Blocks", "blocks": true, "items": false, "crafting": true },
   // { "title": "Hybrid Slabs", "blocks": true, "items": true, "crafting": true },

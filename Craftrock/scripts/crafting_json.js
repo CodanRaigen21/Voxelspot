@@ -12612,3 +12612,18 @@ const ender_scepter = [
 		"amount": 1
 	}
 ]
+
+const gold_rush = [
+	{
+		"type": "crafting",
+		"tool": "minecraft/crafting_table",
+		"genre": "blocks",
+		"pattern": [
+			"minecraft/iron_bars", "minecraft/iron_bars", "minecraft/iron_bars",
+			"minecraft/iron_ingot", "minecraft/scaffolding", "minecraft/iron_ingot",
+			"minecraft/iron_ingot", "", "minecraft/iron_ingot"
+		],
+		"result": "gold_rush/sieve",
+		"amount": 1
+	}
+]

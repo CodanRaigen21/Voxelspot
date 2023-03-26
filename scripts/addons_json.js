@@ -363,6 +363,19 @@ const addonsList = [
 		// "entities": false,
 		// "structures": false
   // },
+  {
+    "dat_link": "https://link-target.net/131911/gold-rush-dat",
+		"res_link": "https://link-target.net/131911/gold-rush-res",
+		"gallery": 4,
+    "title": "Gold Rush",
+		"desc": "It will help add value to the mega taiga biome and adds a new ore with a twist on how to obtain its content.",
+    "full_desc": "The addition of two new blocks may come in handy when it comes to obtaining gold. Paydirt spawns in the Mega Taiga biome and to extract its contents, you need to craft a sieve and place it there. This is an add-on that will help add some values to the mega taiga and add a little expectation to discovering something rare.",
+		"crafting": true,
+		"blocks": true,
+		"items": false,
+		"entities": false,
+		"structures": false
+  },
   // {
     // "dat_link": "link",
 		// "res_link": "link",
