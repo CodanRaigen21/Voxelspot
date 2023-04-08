@@ -6089,3 +6089,193 @@ const totalcarnagelist = [
     ]
   }
 ]
+
+const oreseedslist = [
+  {
+    "namespace": "raigen",
+    "name": "Blastore",
+    "health": [
+			"♡ 20"
+		],
+    "damage": [
+			"⚔ 32"
+		],
+		"variants": 1,
+    "desc": "This is a mimic entity that explodes after 3 seconds. The strength of the explosion is the same as a normal vanilla creeper but won't damage blocks.",
+    "weaknesses": [
+    ],
+    "immunities": [
+      "Drowning",
+      "Suffocation",
+      "Fall",
+      "Fire"
+    ],
+    "target": [
+			"⊕ Player"
+		],
+    "spawn": [
+			"⌂ Unnatural, they have a 6% chance to spawn when breaking an artificial ore, created from interacting with an ore seed."
+		],
+    "loot": [
+      { "item": "Coal", "amount": "2-4" },
+      { "item": "Raw Copper", "amount": "4-10" },
+      { "item": "Diamond", "amount": "2" },
+      { "item": "Emerald", "amount": "2" },
+      { "item": "Raw Gold", "amount": "2-4" },
+      { "item": "Raw Iron", "amount": "2-4" },
+      { "item": "Lapis Lazuli", "amount": "8-18" },
+      { "item": "Quartz", "amount": "2" },
+      { "item": "Redstone Dust", "amount": "8-10" }
+    ]
+  },
+  {
+    "namespace": "raigen",
+    "name": "Blistore",
+    "health": [
+			"♡ 20"
+		],
+    "damage": [
+			"⚔ 4 - Basic",
+			"⚔ 1 - AOE"
+		],
+		"variants": 1,
+    "desc": "This is a mimic entity that sets fire to players within a 2.5 block radius. Passively inflicts fire damage nearby that aren't ore monsters.",
+    "weaknesses": [
+      "Water"
+    ],
+    "immunities": [
+      "Suffocation",
+      "Fall",
+      "Fire"
+    ],
+    "target": [
+			"⊕ Player"
+		],
+    "spawn": [
+			"⌂ Unnatural, they have a 6% chance to spawn when breaking an artificial ore, created from interacting with an ore seed."
+		],
+    "loot": [
+      { "item": "Coal", "amount": "2-4" },
+      { "item": "Raw Copper", "amount": "4-10" },
+      { "item": "Diamond", "amount": "2" },
+      { "item": "Emerald", "amount": "2" },
+      { "item": "Raw Gold", "amount": "2-4" },
+      { "item": "Raw Iron", "amount": "2-4" },
+      { "item": "Lapis Lazuli", "amount": "8-18" },
+      { "item": "Quartz", "amount": "2" },
+      { "item": "Redstone Dust", "amount": "8-10" }
+    ]
+  },
+  {
+    "namespace": "raigen",
+    "name": "Blundore",
+    "health": [
+			"♡ 20"
+		],
+    "damage": [
+			"⚔ 5"
+		],
+		"variants": 1,
+    "desc": "This is a mimic entity that with attacks that inflict weakness for 5 seconds.",
+    "weaknesses": [
+    ],
+    "immunities": [
+      "Drowning",
+      "Suffocation",
+      "Fall",
+      "Fire"
+    ],
+    "target": [
+			"⊕ Player"
+		],
+    "spawn": [
+			"⌂ Unnatural, they have a 6% chance to spawn when breaking an artificial ore, created from interacting with an ore seed."
+		],
+    "loot": [
+      { "item": "Coal", "amount": "2-4" },
+      { "item": "Raw Copper", "amount": "4-10" },
+      { "item": "Diamond", "amount": "2" },
+      { "item": "Emerald", "amount": "2" },
+      { "item": "Raw Gold", "amount": "2-4" },
+      { "item": "Raw Iron", "amount": "2-4" },
+      { "item": "Lapis Lazuli", "amount": "8-18" },
+      { "item": "Quartz", "amount": "2" },
+      { "item": "Redstone Dust", "amount": "8-10" }
+    ]
+  },
+  {
+    "namespace": "raigen",
+    "name": "Breakore",
+    "health": [
+			"♡ 20"
+		],
+    "damage": [
+			"⚔ 5 - AOE"
+		],
+		"variants": 1,
+    "desc": "This is a mimic entity that teleports above the nearest player within a 5 block radius in order deal AOE damage in a 3 block raadius.",
+    "weaknesses": [
+    ],
+    "immunities": [
+      "Drowning",
+      "Suffocation",
+      "Fall",
+      "Fire"
+    ],
+    "target": [
+			"⊕ Player"
+		],
+    "spawn": [
+			"⌂ Unnatural, they have a 6% chance to spawn when breaking an artificial ore, created from interacting with an ore seed."
+		],
+    "loot": [
+      { "item": "Coal", "amount": "2-4" },
+      { "item": "Raw Copper", "amount": "4-10" },
+      { "item": "Diamond", "amount": "2" },
+      { "item": "Emerald", "amount": "2" },
+      { "item": "Raw Gold", "amount": "2-4" },
+      { "item": "Raw Iron", "amount": "2-4" },
+      { "item": "Lapis Lazuli", "amount": "8-18" },
+      { "item": "Quartz", "amount": "2" },
+      { "item": "Redstone Dust", "amount": "8-10" }
+    ]
+  },
+  {
+    "namespace": "raigen",
+    "name": "Crushore",
+    "health": [
+			"♡ 20"
+		],
+    "damage": [
+			"⚔ 1 - Basic",
+			"⚔ 1 - AOE"
+		],
+		"variants": 1,
+    "desc": "This is a mimic entity that teleports to the head of the nearest player to suffocate tham and continuously deal damage and inflict blindness for 5 seconds.",
+    "weaknesses": [
+    ],
+    "immunities": [
+      "Drowning",
+      "Suffocation",
+      "Fall",
+      "Fire"
+    ],
+    "target": [
+			"⊕ Player"
+		],
+    "spawn": [
+			"⌂ Unnatural, they have a 6% chance to spawn when breaking an artificial ore, created from interacting with an ore seed."
+		],
+    "loot": [
+      { "item": "Coal", "amount": "2-4" },
+      { "item": "Raw Copper", "amount": "4-10" },
+      { "item": "Diamond", "amount": "2" },
+      { "item": "Emerald", "amount": "2" },
+      { "item": "Raw Gold", "amount": "2-4" },
+      { "item": "Raw Iron", "amount": "2-4" },
+      { "item": "Lapis Lazuli", "amount": "8-18" },
+      { "item": "Quartz", "amount": "2" },
+      { "item": "Redstone Dust", "amount": "8-10" }
+    ]
+  }
+]

@@ -12627,3 +12627,114 @@ const gold_rush = [
 		"amount": 1
 	}
 ]
+
+const ore_seeds = [
+	{
+		"type": "crafting",
+		"tool": "minecraft/crafting_table",
+		"genre": "items",
+		"pattern": [
+			"minecraft/coal_block", "minecraft/coal_block", "minecraft/coal_block",
+			"minecraft/coal_block", "minecraft/coal", "minecraft/coal",
+			"minecraft/coal", "minecraft/coal", "minecraft/wheat_seeds"
+		],
+		"result": "ore_seeds/coal_ore_seed",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"tool": "minecraft/crafting_table",
+		"genre": "items",
+		"pattern": [
+			"minecraft/copper_block", "minecraft/copper_block", "minecraft/copper_block",
+			"minecraft/copper_block", "minecraft/copper_ingot", "minecraft/copper_ingot",
+			"minecraft/copper_ingot", "minecraft/copper_ingot", "minecraft/wheat_seeds"
+		],
+		"result": "ore_seeds/copper_ore_seed",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"tool": "minecraft/crafting_table",
+		"genre": "items",
+		"pattern": [
+			"minecraft/iron_block", "minecraft/iron_block", "minecraft/iron_block",
+			"minecraft/iron_block", "minecraft/iron_ingot", "minecraft/iron_ingot",
+			"minecraft/iron_ingot", "minecraft/iron_ingot", "minecraft/wheat_seeds"
+		],
+		"result": "ore_seeds/iron_ore_seed",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"tool": "minecraft/crafting_table",
+		"genre": "items",
+		"pattern": [
+			"minecraft/gold_block", "minecraft/gold_block", "minecraft/gold_block",
+			"minecraft/gold_block", "minecraft/gold_ingot", "minecraft/gold_ingot",
+			"minecraft/gold_ingot", "minecraft/gold_ingot", "minecraft/wheat_seeds"
+		],
+		"result": "ore_seeds/gold_ore_seed",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"tool": "minecraft/crafting_table",
+		"genre": "items",
+		"pattern": [
+			"minecraft/lapis_lazuli_block", "minecraft/lapis_lazuli_block", "minecraft/lapis_lazuli_block",
+			"minecraft/lapis_lazuli_block", "minecraft/lapis_lazuli", "minecraft/lapis_lazuli",
+			"minecraft/lapis_lazuli", "minecraft/lapis_lazuli", "minecraft/wheat_seeds"
+		],
+		"result": "ore_seeds/lapis_lazuli_ore_seed",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"tool": "minecraft/crafting_table",
+		"genre": "items",
+		"pattern": [
+			"minecraft/quartz_block", "minecraft/quartz_block", "minecraft/quartz_block",
+			"minecraft/quartz_block", "minecraft/quartz", "minecraft/quartz",
+			"minecraft/quartz", "minecraft/quartz", "minecraft/wheat_seeds"
+		],
+		"result": "ore_seeds/quartz_ore_seed",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"tool": "minecraft/crafting_table",
+		"genre": "items",
+		"pattern": [
+			"minecraft/redstone_block", "minecraft/redstone_block", "minecraft/redstone_block",
+			"minecraft/redstone_block", "minecraft/redstone_dust", "minecraft/redstone_dust",
+			"minecraft/redstone_dust", "minecraft/redstone_dust", "minecraft/wheat_seeds"
+		],
+		"result": "ore_seeds/redstone_ore_seed",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"tool": "minecraft/crafting_table",
+		"genre": "items",
+		"pattern": [
+			"minecraft/diamond_block", "minecraft/diamond_block", "minecraft/diamond_block",
+			"minecraft/diamond_block", "minecraft/diamond", "minecraft/diamond",
+			"minecraft/diamond", "minecraft/diamond", "minecraft/wheat_seeds"
+		],
+		"result": "ore_seeds/diamond_ore_seed",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"tool": "minecraft/crafting_table",
+		"genre": "items",
+		"pattern": [
+			"minecraft/emerald_block", "minecraft/emerald_block", "minecraft/emerald_block",
+			"minecraft/emerald_block", "minecraft/emerald", "minecraft/emerald",
+			"minecraft/emerald", "minecraft/emerald", "minecraft/wheat_seeds"
+		],
+		"result": "ore_seeds/emerald_ore_seed",
+		"amount": 1
+	}
+]

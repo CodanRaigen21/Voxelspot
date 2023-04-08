@@ -623,19 +623,19 @@ const addonsList = [
 		// "entities": false,
 		// "structures": false
   // },
-  // {
-    // "dat_link": "link",
-		// "res_link": "link",
-		// "gallery": 0,
-    // "title": "Ore Seeds",
-		// "desc": "This adds new items that let you infuse ores into other terrain blocks. It has a limited range but downright overpowered.",
-    // "full_desc": "Testing the full description lol",
-		// "crafting": false,
-		// "blocks": false,
-		// "items": false,
-		// "entities": false,
-		// "structures": false
-  // },
+  {
+    "dat_link": "https://link-center.net/131911/ore-seeds-dat",
+		"res_link": "https://link-target.net/131911/ore-seeds-res",
+		"gallery": 3,
+    "title": "Ore Seeds",
+		"desc": "This adds new items that let you infuse ores into other terrain blocks. It has a limited range but downright overpowered.",
+    "full_desc": "With the ability to craft seeds that allow you to infuse blocks with their ores, this is an add-on where farming resources become literal! All you need to do is craft an ore seed and plant it on terrain that doesn't necessarily need to be stone or deepslate and the ore seed will transform the area full of bountiful resources. Be warned however, there is a really small chance that a consequence may arrive when breaking blocks. One of the 5 new monsters related to their ores will spawn if you break them so bring some gear with you if you plan to harvest these artificial ores.",
+		"crafting": true,
+		"blocks": true,
+		"items": true,
+		"entities": true,
+		"structures": false
+  },
   // {
     // "dat_link": "link",
 		// "res_link": "link",
