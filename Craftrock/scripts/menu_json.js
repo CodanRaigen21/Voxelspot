@@ -44,6 +44,7 @@ const menuList = [
   // { "title": "Resourcefulness", "blocks": true, "items": true, "items_crafting": true, "blocks_crafting": true },
   // { "title": "Rotated Planks", "blocks": true, "items": true, "items_crafting": true, "blocks_crafting": true },
   // { "title": "Spawn Crafter", "blocks": true, "items": true, "items_crafting": true, "blocks_crafting": true },
+  { "title": "stackzips", "blocks": true, "items": false, "items_crafting": false, "blocks_crafting": true },
   // { "title": "Tankers", "blocks": true, "items": true, "items_crafting": true, "blocks_crafting": true },
   // { "title": "Tatsulok", "blocks": true, "items": true, "items_crafting": true, "blocks_crafting": true },
   // { "title": "The Variants", "blocks": true, "items": true, "items_crafting": true, "blocks_crafting": true },

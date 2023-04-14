@@ -844,6 +844,19 @@ const addonsList = [
 		// "entities": false,
 		// "structures": false
   // },
+  {
+    "dat_link": "https://link-target.net/131911/stackzips-dat",
+		"res_link": "https://link-hub.net/131911/stackzips-res",
+		"gallery": 4,
+    "title": "Stackzips",
+		"desc": "It provides a way to compress most stacks of item in a single block. This is similar to the Tankers add-on but focuses more on other miscellaneous items likes brewing ingredients, food, redstone, among other things.",
+    "full_desc": "This is an add-on that allows you to compress stacks of items into a single block. It should help with storage problems and help you expand your storage. The Stack Zipper block is the tool that will help you compress your stacks. Simply interact with it with a full stack of your item and it will compress it in your inventory. Upon compression, you'll receive a compressed block of items that you can place down and break to retrieve them.",
+		"crafting": true,
+		"blocks": true,
+		"items": false,
+		"entities": false,
+		"structures": false
+  },
   // {
     // "dat_link": "link",
 		// "res_link": "link",

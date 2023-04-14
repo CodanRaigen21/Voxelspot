@@ -12738,3 +12738,18 @@ const ore_seeds = [
 		"amount": 1
 	}
 ]
+
+const stackzips = [
+	{
+		"type": "crafting",
+		"tool": "minecraft/crafting_table",
+		"genre": "blocks",
+		"pattern": [
+			"minecraft/trapped_chest", "minecraft/trapped_chest", "minecraft/trapped_chest",
+			"minecraft/trapped_chest", "minecraft/trapped_chest", "minecraft/trapped_chest",
+			"minecraft/chain", "minecraft/chain", "minecraft/chain"
+		],
+		"result": "stackzips/stack_zipper",
+		"amount": 1
+	}
+]
