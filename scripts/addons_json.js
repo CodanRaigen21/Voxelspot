@@ -129,19 +129,19 @@ const addonsList = [
 		"entities": false,
 		"structures": false
   },
-  // {
-    // "dat_link": "link",
-		// "res_link": "link",
-		// "gallery": 0,
-    // "title": "Bridge Cannon",
-		// "desc": "Adds new equipment that builds bridges in front of the user. The barebones bridge is made of the same type of wood used to reload it.",
-    // "full_desc": "Testing the full description lol",
-		// "crafting": false,
-		// "blocks": false,
-		// "items": false,
-		// "entities": false,
-		// "structures": false
-  // },
+  {
+    "dat_link": "https://link-center.net/131911/bridge-cannon-dat",
+		"res_link": "https://link-target.net/131911/bridge-cannon-res",
+		"gallery": 5,
+    "title": "Bridge Cannon",
+		"desc": "Adds new equipment that builds bridges in front of the user. The barebones bridge is made of the same type of wood used to reload it.",
+    "full_desc": "This is a completely basic add-on where it adds a cannon that allows the player to shoot 8 slabs of slats of their choice.",
+		"crafting": true,
+		"blocks": true,
+		"items": true,
+		"entities": false,
+		"structures": false
+  },
   // {
     // "dat_link": "link",
 		// "res_link": "link",
@@ -545,19 +545,19 @@ const addonsList = [
 		// "entities": false,
 		// "structures": false
   // },
-  // {
-    // "dat_link": "link",
-		// "res_link": "link",
-		// "gallery": 0,
-    // "title": "Mob Blocks",
-		// "desc": "Adds blocks that will instantly spawn mobs. It also allows you to use the /fill command to spawn mobs.",
-    // "full_desc": "Testing the full description lol",
-		// "crafting": false,
-		// "blocks": false,
-		// "items": false,
-		// "entities": false,
-		// "structures": false
-  // },
+  {
+    "dat_link": "link",
+		"res_link": "link",
+		"gallery": 0,
+    "title": "Mob Blocks",
+		"desc": "Adds blocks that will instantly spawn mobs. It also allows you to use the /fill command to spawn mobs.",
+    "full_desc": "When you want to place many entities, you'd likely use a repeating command block to do it. If only you could use a command to spawn a bunch of entities in an instant! This add-on lets you do that, it adds blocks that spawn mobs and this will allow you to use the /fill command to spawn mobs.",
+		"crafting": false,
+		"blocks": true,
+		"items": false,
+		"entities": false,
+		"structures": false
+  },
   // {
     // "dat_link": "link",
 		// "res_link": "link",
