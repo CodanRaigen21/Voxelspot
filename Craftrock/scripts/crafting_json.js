@@ -12846,3 +12846,18 @@ const bridge_cannon = [
 	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "items", "pattern": [ "bridge_cannon/empty_bridge_cannon", "bridge_cannon/stripped_cherry_bridge_slats", "bridge_cannon/stripped_cherry_bridge_slats", "bridge_cannon/stripped_cherry_bridge_slats", "bridge_cannon/stripped_cherry_bridge_slats", "bridge_cannon/stripped_cherry_bridge_slats", "bridge_cannon/stripped_cherry_bridge_slats", "bridge_cannon/stripped_cherry_bridge_slats", "bridge_cannon/stripped_cherry_bridge_slats" ], "result": "bridge_cannon/stripped_cherry_bridge_cannon", "amount": 1 },
 	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "items", "pattern": [ "bridge_cannon/empty_bridge_cannon", "bridge_cannon/stripped_bamboo_bridge_slats", "bridge_cannon/stripped_bamboo_bridge_slats", "bridge_cannon/stripped_bamboo_bridge_slats", "bridge_cannon/stripped_bamboo_bridge_slats", "bridge_cannon/stripped_bamboo_bridge_slats", "bridge_cannon/stripped_bamboo_bridge_slats", "bridge_cannon/stripped_bamboo_bridge_slats", "bridge_cannon/stripped_bamboo_bridge_slats" ], "result": "bridge_cannon/stripped_bamboo_bridge_cannon", "amount": 1 },
 ]
+
+const xpiggy_bank = [
+	{
+		"type": "crafting",
+		"tool": "minecraft/crafting_table",
+		"genre": "blocks",
+		"pattern": [
+			"minecraft/iron_block", "minecraft/cauldron", "minecraft/iron_block",
+			"minecraft/iron_block", "minecraft/cauldron", "minecraft/iron_block",
+			"minecraft/book", "minecraft/book", "minecraft/book"
+		],
+		"result": "xpiggy_bank/xpiggy_bank",
+		"amount": 1
+	}
+]

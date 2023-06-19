@@ -56,5 +56,5 @@ const menuList = [
   // { "title": "Useful Staffs", "blocks": true, "items": true, "items_crafting": true, "blocks_crafting": true },
   // { "title": "Vanilla Figurines", "blocks": true, "items": true, "items_crafting": true, "blocks_crafting": true },
   // { "title": "Villajars", "blocks": true, "items": true, "items_crafting": true, "blocks_crafting": true },
-  // { "title": "Xpiggy Bank", "blocks": true, "items": true, "items_crafting": true, "blocks_crafting": true }
+  { "title": "XPiggy Bank", "blocks": true, "items": false, "items_crafting": false, "blocks_crafting": true }
 ];

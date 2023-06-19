@@ -1000,17 +1000,17 @@ const addonsList = [
 		// "entities": false,
 		// "structures": false
   // },
-  // {
-    // "dat_link": "link",
-		// "res_link": "link",
-		// "gallery": 0,
-    // "title": "Xpiggy Bank",
-		// "desc": "This adds a new block that lets you store yur XP as blocks. You can take your XP back by interacting with the blocks you receive from it.",
-    // "full_desc": "Testing the full description lol",
-		// "crafting": false,
-		// "blocks": false,
-		// "items": false,
-		// "entities": false,
-		// "structures": false
-  // }
+  {
+    "dat_link": "https://link-target.net/131911/xpiggy-bank-dat",
+		"res_link": "https://link-hub.net/131911/xpiggy-bank-res",
+		"gallery": 3,
+    "title": "XPiggy Bank",
+		"desc": "This adds a new block that lets you store yur XP as blocks. You can take your XP back by interacting with the blocks you receive from it.",
+    "full_desc": "Testing the full description lol",
+		"crafting": true,
+		"blocks": true,
+		"items": false,
+		"entities": false,
+		"structures": false
+  }
 ];

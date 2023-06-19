@@ -8379,3 +8379,78 @@ const bridge_cannon_blocks = [
   { "name": "Stripped Cherry Bridge Slats", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A construction block made of four pieces of materials." },
   { "name": "Stripped Bamboo Bridge Slats", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A construction block made of four pieces of materials." }
 ]
+
+const xpiggy_bank_blocks = [
+  {
+    "name": "XPiggy Bank",
+		"model": false,
+		"special_loot": [],
+    "mining_time": 1.5,
+    "explosion_resistance": 3,
+    "flammable": false,
+		"light": 0,
+    "orientation": "cardinal",
+    "group": "Items",
+    "description": "A block used to convert your experience levels into blocks using a Block of Amethyst. You can switch the conversion amount by sneaking and interacting with it. Interact using a Block of Amethyst to complete the conversion."
+  },
+  {
+    "name": "Collected XP 10",
+		"model": false,
+		"special_loot": ["10 XP Levels"],
+    "mining_time": 0.1,
+    "explosion_resistance": 0.1,
+    "flammable": false,
+		"light": 0,
+    "orientation": "none",
+    "group": "Items",
+    "description": "Interacting with this block will give you the amount of experience levels it holds. Breaking it will destroy the experience levels."
+  },
+  {
+    "name": "Collected XP 20",
+		"model": false,
+		"special_loot": ["20 XP Levels"],
+    "mining_time": 0.1,
+    "explosion_resistance": 0.1,
+    "flammable": false,
+		"light": 0,
+    "orientation": "none",
+    "group": "Items",
+    "description": "Interacting with this block will give you the amount of experience levels it holds. Breaking it will destroy the experience levels."
+  },
+  {
+    "name": "Collected XP 30",
+		"model": false,
+		"special_loot": ["30 XP Levels"],
+    "mining_time": 0.1,
+    "explosion_resistance": 0.1,
+    "flammable": false,
+		"light": 0,
+    "orientation": "none",
+    "group": "Items",
+    "description": "Interacting with this block will give you the amount of experience levels it holds. Breaking it will destroy the experience levels."
+  },
+  {
+    "name": "Collected XP 40",
+		"model": false,
+		"special_loot": ["40 XP Levels"],
+    "mining_time": 0.1,
+    "explosion_resistance": 0.1,
+    "flammable": false,
+		"light": 0,
+    "orientation": "none",
+    "group": "Items",
+    "description": "Interacting with this block will give you the amount of experience levels it holds. Breaking it will destroy the experience levels."
+  },
+  {
+    "name": "Collected XP 50",
+		"model": false,
+		"special_loot": ["50 XP Levels"],
+    "mining_time": 0.1,
+    "explosion_resistance": 0.1,
+    "flammable": false,
+		"light": 0,
+    "orientation": "none",
+    "group": "Items",
+    "description": "Interacting with this block will give you the amount of experience levels it holds. Breaking it will destroy the experience levels."
+  }
+]
